@@ -1,4 +1,4 @@
-# All-My-Projects
+# All-My-class-Projects
 Here you'll have bundle files of all the class projects I participated in.
 
 How to open/view a bundle file :
